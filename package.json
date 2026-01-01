@@ -8,7 +8,7 @@
     "react-dom": "^16.6.3",
     "react-geocode": "^0.1.2",
     "react-google-autocomplete": "^1.0.18",
-    "react-scripts": "2.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
